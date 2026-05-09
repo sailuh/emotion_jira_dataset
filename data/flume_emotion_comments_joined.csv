@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13747306,1207220,FLUME-2174,2,"Committed, rev:088067c. Thanks Roman!",2013-08-22T06:54:26.849+0000,2013-08-22T06:54:26.849+0000,hshreedharan,Hari Shreedharan,1.0,0.33333334,0.0,,,
+13499584,1208992,FLUME-1723,2,"Patch committed, rev: 84f4fa61b6607d8699bb28743b568f4a716b4288. Thanks Mike!",2012-11-18T02:05:30.473+0000,2012-11-18T02:05:30.473+0000,hshreedharan,Hari Shreedharan,1.0,0.33333334,0.0,,,

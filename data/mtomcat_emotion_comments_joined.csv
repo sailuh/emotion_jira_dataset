@@ -1,0 +1,4 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13273570,577388,MTOMCAT-151,2,"Fixed.
+Thanks for report (even if I'm not sure empty password is a good idea :-) ).
+",2012-05-11T20:14:23.044+0000,2012-05-11T20:14:23.044+0000,olamy,Olivier Lamy,1.0,0.6666667,0.0,,,

@@ -1,0 +1,12 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13587128,342623,STANBOL-957,2,"Hi Rupert! 
+
+Sorry it took so long but i thought i'd test building in a linux environment too so i set up a Centos 6.3 machine running Maven 3.0.4 and Java 1.6_41. 
+
+Got the exact same error on both machines. I have attached corresponding logs both from windows8 and centos to this issue. Link here: https://issues.apache.org/jira/secure/attachment/12570981/surefire_reportsR1450112_win8_centos6.3.zip
+
+Kind regards
+Esse
+
+EDIT: I'll also run mvn clean install for just jenatdb with logging when i get home.",2013-02-26T13:50:31.615+0000,2013-02-26T14:12:19.432+0000,oakninja,Oak Ninja,0.0,0.0,1.0,,,
+13012860,344115,STANBOL-120,2,"As Olivier does all the great work here, I assigned the issue to him. Thank you!",2011-03-30T07:03:25.103+0000,2011-03-30T07:03:25.103+0000,fchrist,Fabian Christ,1.0,0.6666667,0.0,,,

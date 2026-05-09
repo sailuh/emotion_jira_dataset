@@ -1,0 +1,26 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12849612,480821,PDFBOX-669,2,"Hi,
+
+Here is the missing file.
+I'm sorry for the delay.
+
+Regards,
+Eric",2010-03-25T08:30:10.376+0000,2010-03-25T08:30:10.376+0000,leleueri,Eric Leleu,0.0,0.0,1.0,,,
+13826045,477037,PDFBOX-1776,2,">Tilman Hausherr 
+
+hello, finally it  works!
+I just downloaded the revision 1535956, and bulded it with Ant.
+and added the new *.jar to my project's build path.
+it printed very well.
+
+thank you very much.",2013-11-19T01:23:29.299+0000,2013-11-19T01:23:29.299+0000,jingang,Jin Gang,0.6666667,1.0,0.0,,,
+13255233,478817,PDFBOX-1276,2,"Hello Andreas,
+
+Thank you for the information.
+
+Shall try the same and upload the patch shortly.
+
+Thanks & Regards,
+Ravikiran Mane.
+
+",2012-04-17T00:56:09.600+0000,2012-04-17T00:56:09.600+0000,ravikiranm,Ravikiran Mane,1.0,0.0,0.0,,,

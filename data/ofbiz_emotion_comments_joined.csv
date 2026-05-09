@@ -1,0 +1,10 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12701478,524024,OFBIZ-2334,2,"Great last enhancements, thanks guys!",2009-04-22T10:34:58.020+0000,2009-04-22T10:34:58.020+0000,jleroux,Jacques Le Roux,0.33333334,1.0,0.0,,,
+12805215,519572,OFBIZ-3427,2,"Thanks Mirdul, committed in trunk r903428 and 9.04 r903429",2010-01-26T21:38:23.514+0000,2010-01-26T21:38:23.514+0000,lektran,Scott Gray,1.0,0.0,0.0,,,
+12595544,527414,OFBIZ-1773,2,"Sorry to hack your issue Bilgin, my intention is to keep readable traces (in ML you can't read easily stack)",2008-05-09T10:51:49.592+0000,2008-05-09T10:51:49.592+0000,jleroux,Jacques Le Roux,0.0,0.0,1.0,,,
+12983052,516196,OFBIZ-4122,2,"Thanks Ankit,
+
+Your patch is in trunk at r1060220, I did not backport as it's not breaking anything",2011-01-18T07:30:56.253+0000,2011-01-18T07:30:56.253+0000,jleroux,Jacques Le Roux,1.0,0.0,0.0,,,
+12970117,516630,OFBIZ-4051,2,Thanks Erwan for you're effort :-),2010-12-10T10:20:31.240+0000,2010-12-10T10:20:31.240+0000,sascha,Sascha Schumann,1.0,0.0,0.0,,,
+12869244,518230,OFBIZ-3755,2,"Done at 946323 and 946322
+Thanks Blas !",2010-05-19T18:18:22.222+0000,2010-05-19T18:18:22.222+0000,erwan,Erwan de Ferrieres,1.0,0.33333334,0.0,,,

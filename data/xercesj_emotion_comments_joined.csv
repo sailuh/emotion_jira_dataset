@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12977008,180844,XERCESJ-1491,2,"Oops, sorry. Certainly right.",2011-01-03T23:21:40.192+0000,2011-01-03T23:21:40.192+0000,volkerk,Volker Kleinschmidt,0.0,0.0,1.0,,,
+12521217,181480,XERCESJ-1259,2,Thanks Wei. I've committed your latest patch to SVN.,2007-08-20T19:58:48.918+0000,2007-08-20T19:58:48.918+0000,mrglavas@ca.ibm.com,Michael Glavassevich,1.0,0.0,0.0,,,

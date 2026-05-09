@@ -1,0 +1,11 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13689635,1538651,CASSANDRA-5678,2,committed to 1.2 and trunk. thanks!,2013-06-20T20:43:21.217+0000,2013-06-20T20:43:21.217+0000,jasobrown,Jason Brown,1.0,0.33333334,0.0,,,
+13595194,1540816,CASSANDRA-5315,2,"Committed, thanks!",2013-03-06T22:26:04.605+0000,2013-03-06T22:26:04.605+0000,brandon.williams,Brandon Williams,1.0,0.33333334,0.0,,,
+13037693,1558937,CASSANDRA-2682,2,"committed, thanks!",2011-05-23T01:30:55.798+0000,2011-05-23T01:30:55.798+0000,jbellis,Jonathan Ellis,1.0,0.33333334,0.0,,,
+13067252,1557072,CASSANDRA-2916,2,"committed, thanks!",2011-07-18T19:56:54.528+0000,2011-07-18T19:56:54.528+0000,jbellis,Jonathan Ellis,1.0,0.33333334,0.0,,,
+13813993,1535412,CASSANDRA-6299,2,"Committed, thanks",2013-11-05T15:35:38.523+0000,2013-11-05T15:35:38.523+0000,slebresne,Sylvain Lebresne,1.0,0.0,0.0,,,
+12899247,1570520,CASSANDRA-1126,2,"okay, I'm convinced.  Sorry about the wait.
+
+As an apology I have coded up the URL-based version in v3.  (Haven't actually tested it on non-local files though, but it compiles. :)",2010-08-17T02:28:19.154+0000,2010-08-17T02:28:19.154+0000,jbellis,Jonathan Ellis,0.33333334,0.0,1.0,,,
+13157351,1565919,CASSANDRA-1740,2,"+1, Thanks!",2011-11-26T00:38:30.491+0000,2011-11-26T00:38:30.491+0000,vijay2win@yahoo.com,Vijay,1.0,0.33333334,0.0,,,
+13586977,1540960,CASSANDRA-5284,2,"Committed, thanks",2013-02-26T10:03:34.008+0000,2013-02-26T10:03:34.008+0000,slebresne,Sylvain Lebresne,1.0,0.0,0.0,,,

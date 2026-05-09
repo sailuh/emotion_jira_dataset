@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12835782,1324575,FELIX-1988,2,Re font size: sounds reasonable. Thanks.,2010-02-19T15:42:02.633+0000,2010-02-19T15:42:02.633+0000,fmeschbe,Felix Meschberger,1.0,0.0,0.0,,,
+12650046,1327859,FELIX-814,2,Thanks for providing this update. WIll try to take a look at this sometime this week.,2008-11-23T19:27:59.710+0000,2008-11-23T19:27:59.710+0000,fmeschbe,Felix Meschberger,1.0,0.0,0.0,,,

@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13682762,1579945,CAMEL-6445,2,"Well, if it is just a documentation bug, even better. Thanks for the clarification.",2013-06-13T21:21:13.581+0000,2013-06-13T21:21:13.581+0000,ralfsteppacher,Ralf Steppacher,1.0,0.0,0.0,,,
+12954327,1593856,CAMEL-2328,2,Thanks a lot Willem :-),2010-01-07T09:51:53.328+0000,2010-01-07T09:51:53.328+0000,ceefour,Hendy Irawan,1.0,0.0,0.0,,,

@@ -1,0 +1,4 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13513913,1624614,BATIK-796,2,"Looks good.  Applied, thanks!
+
+  http://svn.apache.org/viewvc?rev=606891&view=rev",2007-12-26T03:45:59.000+0000,2007-12-26T03:45:59.000+0000,cam,Cameron McCormack,0.6666667,1.0,0.0,,,

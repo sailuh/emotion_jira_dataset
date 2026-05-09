@@ -1,0 +1,11 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12685017,1508517,CLK-293,2,"Hi Victor
+
+Thanks alot for your help testing this issue!
+
+Would be good to know if it works on Centos too.
+
+kind regards
+
+bob",2008-01-25T15:34:58.000+0000,2008-01-25T15:34:58.000+0000,sabob,Bob Schellink,1.0,0.33333334,0.0,,,
+12684502,1509174,CLK-45,2,"Looks good, patch applied -- Thanks Naoki!",2005-12-16T19:54:11.000+0000,2005-12-16T19:54:11.000+0000,pbarnes,Phil Barnes,0.33333334,1.0,0.0,,,

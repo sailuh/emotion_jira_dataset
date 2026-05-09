@@ -1,0 +1,2 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13110285,538839,ODFTOOLKIT-31,2,Works fine with my minimal test case and the tutorial. Thank you!,2009-07-16T13:31:16.000+0000,2009-07-16T13:31:16.000+0000,jdeisenberg@odftoolkit.org,J David Eisenberg,1.0,1.0,0.0,,,

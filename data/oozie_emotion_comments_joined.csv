@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13605401,501187,OOZIE-1208,2,committed to branch-4.0 and trunk. Thanks Rohini.,2013-03-18T17:53:48.352+0000,2013-03-18T17:53:48.352+0000,chitnis,Mona Chitnis,1.0,0.0,0.0,,,
+13397858,503241,OOZIE-879,2,Thanks Robert. Committed to trunk.,2012-06-20T20:57:35.580+0000,2012-06-20T20:57:35.580+0000,tucu00,Alejandro Abdelnur,1.0,0.0,0.0,,,

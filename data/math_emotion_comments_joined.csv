@@ -1,0 +1,15 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13100894,585154,MATH-649,2,"Phil,
+
+I must have missed this email. I am sorry. I will get this done, and the
+other changes to support the UpdatingMultipleLinearRegression class.
+
+I updated my source and noticed the changes were missing. I did my detective
+work and noticed this.
+
+Mea Culpa!!
+
+-Greg
+
+
+",2011-09-09T02:51:09.182+0000,2011-09-09T02:51:09.182+0000,gsteri1,greg sterijevski,0.0,0.0,1.0,,,

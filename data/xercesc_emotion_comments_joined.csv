@@ -1,0 +1,21 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+29487,188091,XERCESC-689,2,"Looks great, thanks Tinny!",2002-12-03T03:33:44.000+0000,2002-12-03T03:33:44.000+0000,abraham@backus.com,Abe Backus,0.6666667,1.0,0.0,,,
+35530,186655,XERCESC-1207,2,"Hi Neil,
+Thanks for the advice ...
+
+> On the other hand, if you can design a handler that knows how to
+> make appropriate calls to the scanner's sendChars() method so that
+> the buffer gets flushed when a maximum buffer size is reached, then
+> perhaps a pluggable handler wouldn't be necessary since the default
+> behaviour would always work when an application has chosen to set
+> this limit.
+
+The code I have, as written, does have the pluggable handler notion, since I didn't want to arbitrarily couple the XMLBuffer class implementation (or worse, it's interface) to the scanner. I didn't go so overboard as to allow multiple registered handlers, or anything like that; this seemed simple enough without being a hack.
+
+> I'd also observe that XMLBuffer has to check to use the
+> infelicitously named ""insureCapacity()"" method to make sure it's
+> large enough
+
+Yes, this is where I implemented the full-handler invocation. It's more or less as you describe. Once I get everything cleaned up, I'll post the patch here; you'll probably find it to be entirely unsurprising.
+
+I think what I'll end up doing to allow user-configurable buffer size limit will be to add a setter method on Parser and AbstractDOMParser, something like setInputBufferSize(). I think that would be most consistent with the existing API. Sound ok?",2004-05-13T17:48:53.000+0000,2004-05-13T17:48:53.000+0000,dr,Dan Rosen,1.0,0.0,0.0,,,

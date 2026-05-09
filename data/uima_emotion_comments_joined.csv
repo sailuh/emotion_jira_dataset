@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13698859,252866,UIMA-2958,2,"Nice!  Thanks for adding nice debug logging, too :-) ",2013-07-03T11:38:53.035+0000,2013-07-03T11:38:53.035+0000,schor,Marshall Schor,1.0,1.0,0.0,,,
+13714412,254258,UIMA-2318,2,"Oops, my bad, sorry. I indeed did not 'svn add' the new classes since I don't have write access to the repository anyway. But this way 'svn diff' goes wrong, of course. I will submit a new patch on Monday when I'm back at my working machine. I'm really sorry for the incovencience!",2013-07-20T12:43:16.812+0000,2013-07-20T12:43:16.812+0000,chew,Erik Faessler,0.0,0.0,1.0,,,

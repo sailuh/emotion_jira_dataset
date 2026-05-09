@@ -1,0 +1,2 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12912565,245900,VFS-317,2,"Sorry, forgot to mention it in issue description. I use commons-net-2.0.jar, i.e. version 2.0.  It's because Scott Bjerstedt wrote in VFS-264 that for his patch to work we need to use commons-net 2.0.",2010-09-20T16:28:32.768+0000,2010-09-20T16:28:58.964+0000,j-pro,Yurii Kartsev,0.0,0.0,1.0,,,

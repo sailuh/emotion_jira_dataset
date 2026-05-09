@@ -1,0 +1,7 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13843591,162927,YARN-1053,2,"Thanks, Omkar!  I committed this to branch-0.23 as well.",2013-12-09T21:52:04.602+0000,2013-12-09T21:52:04.602+0000,jlowe,Jason Darrell Lowe,1.0,0.33333334,0.0,,,
+13680677,166401,YARN-731,2,"Fixed the minor nits. Thanks, Sid!",2013-06-11T21:06:49.961+0000,2013-06-11T21:06:49.961+0000,zjshen,Zhijie Shen,1.0,0.33333334,0.0,,,
+13483256,173274,YARN-178,2,"Thanks Radim,
+
+I put this into trunk, branch-2, and branch-0.23",2012-10-24T14:11:44.313+0000,2012-10-24T14:11:44.313+0000,revans2,Robert Joseph Evans,1.0,0.0,0.0,,,
+13534171,175684,YARN-3,2,Will review by EOD today. Thanks for the tip.,2012-12-17T19:02:53.566+0000,2012-12-17T19:02:53.566+0000,vinodkv,Vinod Kumar Vavilapalli,1.0,0.0,0.0,,,

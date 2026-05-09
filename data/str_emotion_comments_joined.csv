@@ -1,0 +1,5 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12813853,331092,STR-2373,2,"Sorry, I miss. This bug is same STR-2372. I change resolution to INVALID. ",2005-02-17T23:16:06.000+0000,2005-02-17T23:16:06.000+0000,mta@mx8.ttcn.ne.jp,tanazawa masayuki,0.0,0.0,1.0,,,
+12812905,332469,STR-1937,2,"Carl Lindberg, absolutely you are right. I was not far-sighted enough to think 
+of that. Thank you about your point.^^ My one is not a good idea.
+I will try to fix it. (T.T). Thanks again. ",2004-06-08T09:11:54.000+0000,2004-06-08T09:11:54.000+0000,oxox@posdata.co.kr,YuJeong Kim,1.0,0.33333334,0.33333334,,,

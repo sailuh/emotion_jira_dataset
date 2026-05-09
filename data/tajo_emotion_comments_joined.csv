@@ -1,0 +1,19 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13783347,322631,TAJO-216,2,"Thank You very much for Your positive review and for improving the patch!
+
+Also, a small correction to Your previous comment, it should be:  ""unit tests included in her patch"", as You know  I'm one of the girls in this year's GSoC program.
+
+It was a great experience to collaborate with You and I Thank You for everything!
+
+
+
+",2013-10-01T21:06:18.335+0000,2013-10-01T21:06:42.450+0000,camelia_c,camelia_c,1.0,0.6666667,0.0,,,
+13754426,322943,TAJO-141,2,"+1
+
+Looks good to me.
+
+Thanks, Hyunsik!",2013-08-30T06:29:50.634+0000,2013-08-30T06:29:50.634+0000,jihoonson,Jihoon Son,0.6666667,1.0,0.0,,,
+13715294,323102,TAJO-88,2,I'm sorry for frequently updating the issue title and contents.,2013-07-22T15:34:36.948+0000,2013-07-22T15:34:36.948+0000,hyunsik,Hyunsik Choi,0.0,0.0,1.0,,,
+13753170,323229,TAJO-59,2,"Thanks for your review.
+
+I've just committed.",2013-08-29T01:38:24.314+0000,2013-08-29T01:38:24.314+0000,jihoonson,Jihoon Son,1.0,0.0,0.0,,,

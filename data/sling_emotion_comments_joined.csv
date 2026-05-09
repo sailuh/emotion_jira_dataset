@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12667659,410412,SLING-249,2,"Looks good, thanks!",2009-01-27T12:36:06.642+0000,2009-01-27T12:36:06.642+0000,vramdal,Vidar Skauge Ramdal,0.33333334,1.0,0.0,,,
+13772869,401954,SLING-3079,2,Thanks. Moved,2013-09-20T08:28:44.214+0000,2013-09-20T08:28:44.214+0000,cziegeler,Carsten Ziegeler,1.0,0.0,0.0,,,

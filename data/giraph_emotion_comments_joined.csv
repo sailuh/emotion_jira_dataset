@@ -1,0 +1,4 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13652761,1165173,GIRAPH-665,2,[~apresta] thanks for the fast review.,2013-05-09T05:44:40.282+0000,2013-05-09T05:44:40.282+0000,aching,Avery Ching,1.0,0.0,0.0,,,
+13609800,1165870,GIRAPH-510,2,"Awesome, works for me. LG committing. Thanks!",2013-03-22T02:01:51.407+0000,2013-03-22T02:01:51.407+0000,nitay,Nitay Joffe,0.6666667,1.0,0.0,,,
+13484633,1167340,GIRAPH-273,2,"Committed, thanks for the review, Avery!",2012-10-26T01:08:50.237+0000,2012-10-26T01:08:50.237+0000,majakabiljo,Maja Kabiljo,1.0,0.33333334,0.0,,,

@@ -1,0 +1,2 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12692989,426747,ROL-1150,2,This was a temporary connectivity issue.  You can close this bug.  Thank you.,2006-09-08T07:45:46.514+0000,2006-09-08T07:45:46.514+0000,bnitz,Brian Nitz,1.0,0.0,0.0,,,

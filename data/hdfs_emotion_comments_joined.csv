@@ -1,0 +1,26 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12785023,916164,HDFS-802,2,I've just committed this. Thanks Edwin!,2009-12-02T21:55:27.743+0000,2009-12-02T21:55:27.743+0000,cos,Konstantin I Boudnik,1.0,0.33333334,0.0,,,
+13270228,916806,HDFS-744,2,"Hi Lars. Sorry, I wasn't watching this before so I missed your work til you mentioned it on the HBase JIRA. I'll try to take a look at this this week. Feel free to grab me on IRC if you have specific questions.",2012-05-08T06:02:02.768+0000,2012-05-08T06:02:02.768+0000,tlipcon,Todd Lipcon,0.33333334,0.0,1.0,,,
+13036596,905436,HDFS-1877,2,"I have committed this.  Thanks, CW!",2011-05-20T00:18:21.117+0000,2011-05-20T00:18:21.117+0000,szetszwo,Tsz-wo Sze,1.0,0.33333334,0.0,,,
+13028471,906562,HDFS-1773,2,"I have committed the patch for trunk.  Thanks, Tanping!",2011-05-03T22:19:14.180+0000,2011-05-03T22:19:14.180+0000,szetszwo,Tsz-wo Sze,1.0,0.33333334,0.0,,,
+13445249,882860,HDFS-3861,2,Thanks Kihwal!,2012-08-30T20:01:12.004+0000,2012-08-30T20:01:12.004+0000,daryn,Daryn Sharp,1.0,0.33333334,0.0,,,
+13401139,886848,HDFS-3498,2,"I have committed this.  Thanks, Junping!",2012-06-26T03:26:14.650+0000,2012-06-26T03:26:14.650+0000,szetszwo,Tsz-wo Sze,1.0,0.0,0.0,,,
+13825087,871129,HDFS-5014,2,"Thanks Uma for looking at the Jira.
+I think it should work fine with BPOfferService#registrationSucceeded(..) synchronized.
+Will post a patch soon after verifying it. ",2013-11-18T03:56:26.222+0000,2013-11-18T03:56:26.222+0000,vinayakumarb,Vinayakumar B,1.0,0.0,0.0,,,
+13624047,874800,HDFS-4646,2,"I have committed the patch to trunk, branch-2, and branch-2.0.4-alpha. Thanks you Jagane!",2013-04-05T20:50:29.564+0000,2013-04-05T20:50:29.564+0000,cos,Konstantin I Boudnik,1.0,0.33333334,0.0,,,
+13013835,913188,HDFS-1070,2,"Hi Hairong, the speedups you measured with this patch are very impressive.  It would be great to have it included in the system.
+
+The patch still applied successfully to current trunk when I tried it.  So can you please go ahead and ""submit patch"" so we see how it does with test-patch?  And I'll review it, and try to get someone else to also.  Thanks!",2011-03-31T05:19:58.392+0000,2011-03-31T05:19:58.392+0000,mattf,Matthew Foley,1.0,0.0,0.0,,,
+13125589,900081,HDFS-2349,2,Thanks for reviewing Suresh. Committed to trunk.,2011-10-12T04:49:27.633+0000,2011-10-12T04:49:27.633+0000,qwertymaniac,Harsh J,1.0,0.0,0.0,,,
+13139425,901112,HDFS-2285,2,"I just committed this to trunk. Thank you Uma.
+
+The patch does not apply to 0.23 branch any more. I recommend it for back porting.",2011-10-29T20:21:23.150+0000,2011-10-29T20:21:23.150+0000,shv,Konstantin Shvachko,1.0,0.0,0.0,,,
+13576127,876803,HDFS-4453,2,"I've just committed this to the HDFS-347 branch.
+
+Thanks a lot for the contribution, Colin.",2013-02-11T21:10:41.448+0000,2013-02-11T21:10:41.448+0000,atm,Aaron Myers,1.0,0.0,0.0,,,
+13238593,899420,HDFS-2413,2,"+1 Thanks Harsh, the patch looks good.
+
+> Also, might it be reasonable to mark just isInSafeMode @InterfaceStability.Stable?
+
+Since this is a new API, we are not sure if want to change it.  Let's leave it as-is for the moment.",2012-03-26T17:39:44.477+0000,2012-03-26T17:39:44.477+0000,szetszwo,Tsz-wo Sze,1.0,0.0,0.0,,,

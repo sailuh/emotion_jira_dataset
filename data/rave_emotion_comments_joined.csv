@@ -1,0 +1,2 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13239788,430780,RAVE-526,2,Applied the patch. Thanks Dennis!,2012-03-27T18:24:37.896+0000,2012-03-27T18:24:37.896+0000,jasha,Jasha Joachimsthal,1.0,0.33333334,0.0,,,

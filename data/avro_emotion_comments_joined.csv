@@ -1,0 +1,6 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13204908,1666121,AVRO-1021,2,"I committed this.  Thanks, Raymie!",2012-02-09T21:38:45.832+0000,2012-02-09T21:38:45.832+0000,cutting,Doug Cutting,1.0,0.33333334,0.0,,,
+13417792,1666670,AVRO-939,2,"I'll do it now, thanks!
+",2012-07-18T22:50:02.224+0000,2012-07-18T22:50:02.224+0000,initialcontext,Eli Reisman,1.0,0.33333334,0.0,,,
+13108049,1667041,AVRO-858,2,"I committed this.  Thanks, Miki!",2011-09-19T18:48:56.510+0000,2011-09-19T18:48:56.510+0000,cutting,Doug Cutting,1.0,0.33333334,0.0,,,
+12767721,1677715,AVRO-155,2,I just committed this. Thanks Jeff.,2009-10-20T06:27:16.968+0000,2009-10-20T06:27:16.968+0000,sharadag,Sharad Agarwal,1.0,0.0,0.0,,,

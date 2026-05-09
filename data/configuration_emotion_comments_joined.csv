@@ -1,0 +1,10 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13232387,1468812,CONFIGURATION-472,2,"Hello Oliver,
+
+Sorry for the late response. I haven't had any time to look into this again, maybe it was a misuse on my side after all. Since I haven't been working on the project I encountered the behavior in for months, this issue might as well be closed.",2012-03-18T21:48:40.836+0000,2012-03-18T21:48:40.836+0000,stingray,Raimund Klein,0.0,0.0,1.0,,,
+12409623,1470431,CONFIGURATION-27,2,"sorry, After investigation, the real source of the problem is when a tag is
+using dots (<a.variable>)
+
+Apparently, XMLConfiguration does not support this.
+
+Should it ? ",2005-06-16T02:34:11.000+0000,2005-06-16T02:34:11.000+0000,fabien.nisol@videotron.ca,Fabien Nisol,0.0,0.0,1.0,,,

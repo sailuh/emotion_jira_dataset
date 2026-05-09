@@ -1,0 +1,25 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13236628,365070,SOLR-3156,2,Thanks Martijn!,2012-03-23T14:29:44.253+0000,2012-03-23T14:29:44.253+0000,lucacavanna,Luca Cavanna,1.0,0.33333334,0.0,,,
+12503557,389330,SOLR-259,2,added in rev 546223.  Thanks Will!,2007-06-11T18:59:25.940+0000,2007-06-11T18:59:25.940+0000,ryantxu,Ryan McKinley,1.0,0.33333334,0.0,,,
+12578553,389482,SOLR-243,2,"John: first off, i want to apologize for the *extremely* belated patch review ... I know i told you i'd try to look at this months ago, but ... yeah ... life tends to get in the way of patches.
+
+on the whole, things seem pretty good -- although you were still using an interface instead of an abstract class.  Having the main API for a type of plugin be an abstract class is an important mechanism to help future proof ourselves against possible additions we want to make the the plugin API in the future; if it's an interface we can't really change it once it's released (because we might break people Impls); if it's an abstract class, we can always provide a default impl for people.
+
+the biggest concern i have about this patch at the moment is that there are no tests, and no example configs, so it's hard to be sure it's even working at all :)
+
+here's what i see as the current todo list for this issue...
+
+ 1) there are some legacy SolrIndexSearcher constructors that need to delegate to the SolrCore to get indexReaderFactory ... perhaps we should have a helper method that decides which SolrIndexConfig to use based on the ""name"" ?
+ 2) we need tests showing custom IndexReaderFactory getting used (even if it's just a mock IndexReaderFactory thatsets a boolean to show it's being used) ... this will also serve as a test that config syntax works.
+ 3) need commented out example of using a custom indexReaderFactory in example/solr/conf/solrconfig.xml
+ 4) sanity check this against SOLR-465, make sure we aren't painting ourselves into a corner.
+ 5) we should make IndexReaderFactory use the AbstractPluginLoader stuff and remove the guts of SolrIndexConfig.loadIndexReaderFactory.  It looks like we'll need to add a ""single item"" version of load to the AbstractPluginLoader to make that work well.
+
+#5 is something that can be done after this is committed, but 1-4 are pretty important.  If you can update the patch with some configs/tests i'll think about the legacy SolrIndexSearcher constructors and try to figure out a good solution for them
+",2008-03-14T00:32:48.778+0000,2008-03-14T00:32:48.778+0000,hossman,Chris M. Hostetter,0.33333334,0.6666667,1.0,,,
+13460524,360225,SOLR-3865,2,Fixed the bug description - sorry for the noise,2012-09-21T14:36:27.099+0000,2012-09-21T14:36:27.099+0000,karel1980,Karel Vervaeke,0.0,0.0,1.0,,,
+12864498,375472,SOLR-1834,2,"Hi Andreas,
+
+Sorry for my late reply.
+
+I haven't looked in to the difference between using the ResponseBuilder#getFilters and using filter's in a normal query. Are there any functional differences between the two ways other than that one of them utilizes Solr's filterCache and the other doesn't?",2010-05-05T20:49:53.489+0000,2010-05-05T20:49:53.489+0000,anders.rask,Anders Rask,0.0,0.0,1.0,,,

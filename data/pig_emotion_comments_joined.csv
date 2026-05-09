@@ -1,0 +1,10 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13455323,458570,PIG-2900,2,"Committed to trunk.
+Thanks for the review, Alan!",2012-09-13T21:27:12.407+0000,2012-09-13T21:27:12.407+0000,dvryaboy,Dmitriy V. Ryaboy,1.0,0.33333334,0.0,,,
+12891708,466700,PIG-1435,2,Patch committed to trunk. Thanks Niraj.,2010-07-23T18:24:17.979+0000,2010-07-23T18:24:17.979+0000,rding,Richard Ding,1.0,0.0,0.0,,,
+12856165,467290,PIG-1359,2,"Hi, Gianmarco,
+Thanks for your concern. Actually we need one additional step to make bin/pig work. We shall copy $PIG_HOME/build/pig-0.8.0-dev.jar to $PIG_HOME/pig-0.8.0-core.jar. This will be handled in ant's ""package"" target when releasing. But if you check out from svn, we will do this additional step to work with bin/pig.",2010-04-12T20:56:25.720+0000,2010-04-12T20:56:25.720+0000,daijy,Daniel Dai,1.0,0.0,0.0,,,
+13809428,455054,PIG-3551,2,committed to trunk. Thanks [~elserj]!,2013-10-30T18:11:17.811+0000,2013-10-30T18:11:17.811+0000,aniket486,Aniket Namadeo Mokashi,1.0,0.33333334,0.0,,,
+13587161,456653,PIG-3214,2,"Thanks for volunteering for this, Prashanth!",2013-02-26T14:31:42.963+0000,2013-02-26T14:31:42.963+0000,jcoveney,Jonathan Coveney,1.0,0.33333334,0.0,,,
+13575298,457017,PIG-3154,2,Committed to trunk. Thanks Johnny!,2013-02-09T23:23:08.337+0000,2013-02-09T23:23:08.337+0000,cheolsoo,Cheolsoo Park,1.0,0.33333334,0.0,,,
+12653423,473721,PIG-385,2,"patch committed. Thanks, pradeep!",2008-12-04T19:25:12.568+0000,2008-12-04T19:25:12.568+0000,olgan,Olga Natkovich,1.0,0.33333334,0.0,,,

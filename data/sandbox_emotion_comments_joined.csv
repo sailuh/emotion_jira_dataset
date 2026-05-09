@@ -1,0 +1,6 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13197672,423333,SANDBOX-377,2,"{quote}
+because they are non-javadoc Eclipse-related only, and not everybody uses Eclipse.
+{quote}
+
+ouch... sorry about that. You will not see that again.",2012-02-01T08:24:46.839+0000,2012-02-01T08:24:46.839+0000,britter,Benedikt Ritter,0.0,0.0,1.0,,,

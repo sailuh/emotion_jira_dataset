@@ -1,0 +1,26 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12442614,1423285,DERBY-737,2,"Thanks for taking the time out to review the patch, Bryan. Yes, the patch is ready for commit unless someone else is reviewing it too. Thanks again.",2006-10-16T14:24:05.000+0000,2006-10-16T14:24:05.000+0000,mamtas,Mamta A. Satoor,1.0,0.0,0.0,,,
+12995334,1391491,DERBY-4907,2,"Sorry for the noise, I forgot to grant the license to previous attachment for inclusion in ASF works.
+Thanks",2011-02-16T15:09:17.035+0000,2011-02-16T15:09:17.035+0000,siddharthsrivastava,Siddharth Srivastava,0.33333334,0.0,1.0,,,
+13671277,1355355,DERBY-6231,2,"Thanks! Looks like a good clean-up to me. I admit I didn't check all the changed lines in detail, but the approach gets my +1 :)
+",2013-05-31T09:12:20.616+0000,2013-05-31T09:12:20.616+0000,dagw,Dag H. Wanvik,1.0,1.0,0.0,,,
+13766861,1356281,DERBY-6121,2,"Thanks, Rick!",2013-09-13T19:45:02.095+0000,2013-09-13T19:45:02.095+0000,chaase3,Camilla Haase,1.0,0.33333334,0.0,,,
+13791849,1356333,DERBY-6120,2,"Thanks for the new patch, Kim. +1",2013-10-10T18:57:18.182+0000,2013-10-10T18:57:18.182+0000,rhillegas,Richard N. Hillegas,1.0,0.0,0.0,,,
+13571993,1356833,DERBY-6053,2,"Knut and Rick, thanks for your feedbacks. I will take care of the comments posted by Knut. Rick, thanks for adding -lint directive, it will be good to see the error from the compiler.",2013-02-06T00:48:37.158+0000,2013-02-06T00:48:37.158+0000,mamtas,Mamta A. Satoor,1.0,0.0,0.0,,,
+12683619,1376572,DERBY-3656,2,"Hi Tiago,
+
+Thanks for looking at this issue.
+
+On visual inspection of the change, your text change looks fine. However, I can't apply the patch. You need to svn diff from the top of the tree show it shows the path staring with java/engine/...
+
+You should reopen the issue until it has been committed.
+
+Also, just for good measure you should run suites.All and derbyall  in case there are any canon updates needed.
+
+Thanks
+
+Kathey
+",2009-03-19T21:13:08.957+0000,2009-03-19T21:13:08.957+0000,kmarsden,Katherine Marsden,1.0,0.33333334,0.0,,,
+12575724,1378819,DERBY-3385,2,Junit patch committed Revision: 634284 - Thanks John.,2008-03-06T14:52:51.626+0000,2008-03-06T14:52:51.626+0000,djd,Daniel John Debrunner,1.0,0.0,0.0,,,
+12557756,1379859,DERBY-3302,2,"Thanks for double-checking the fix, Knut. I am thinking of merging the fix into 10.3 tomorrow just to make sure that tests run fine on the tinderbox. All the tests ran fine on my machine.",2008-01-10T19:22:08.565+0000,2008-01-10T19:22:08.565+0000,mamtas,Mamta A. Satoor,1.0,0.0,0.0,,,
+12542813,1414227,DERBY-1823,2,"Thanks so much, Knut Anders!",2007-11-15T16:27:24.826+0000,2007-11-15T16:27:24.826+0000,chaase3,Camilla Haase,1.0,0.33333334,0.0,,,

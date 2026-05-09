@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12958409,400655,SM-603,2,"Guillaume, Thanks for your commit. It fix this problem and my example works fine now with this fix.
+",2006-10-02T14:30:18.000+0000,2006-10-02T14:30:18.000+0000,joaninh,Helene Joanin,1.0,0.0,0.0,,,

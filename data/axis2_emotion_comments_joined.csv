@@ -1,0 +1,11 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12472206,1647391,AXIS2-2122,2,"Great! Thanks a lot.
+I suppose it will be in the next nightly build?
+
+VBR
+johan
+
+
+",2007-02-12T08:12:05.870+0000,2007-02-12T08:12:05.870+0000,joepoe,Johan Lundberg,0.6666667,1.0,0.0,,,
+12362316,1652788,AXIS2-375,2,"Done, Thanks chatra",2006-01-10T19:26:48.000+0000,2006-01-10T19:26:48.000+0000,ruchith,Ruchith B. Gunaratne,1.0,0.0,0.0,,,
+13047813,1634159,AXIS2-5067,2,"Thanks, Andreas, I will check it,",2011-06-11T01:10:31.801+0000,2011-06-11T01:10:31.801+0000,xuhaihong,Haihong Xu,1.0,0.0,0.0,,,
