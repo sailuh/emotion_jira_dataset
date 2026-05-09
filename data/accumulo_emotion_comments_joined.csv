@@ -1,0 +1,2 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13789706,1727473,ACCUMULO-1627,2,"I applied the patch, thanks!",2013-10-08T21:07:48.508+0000,2013-10-08T21:07:48.508+0000,kturner,Keith Turner,1.0,0.33333334,0.0,,,

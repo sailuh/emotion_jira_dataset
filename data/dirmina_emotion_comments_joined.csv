@@ -1,0 +1,6 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12373104,1351265,DIRMINA-201,2,"Thank you for the source code, but why don't you also attach a diff file you get by running 'svn diff'?  It will help us figure out which part is changed exactly.  Thanks in advance!
+
+Your idea sounds very good, though. :D
+
+",2006-04-04T23:14:15.000+0000,2006-04-04T23:14:15.000+0000,trustin,Trustin Lee,0.33333334,1.0,0.0,,,

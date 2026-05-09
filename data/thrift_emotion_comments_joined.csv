@@ -1,0 +1,13 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12670142,308996,THRIFT-264,2,Sorry about that.,2009-02-03T22:14:36.563+0000,2009-02-03T22:14:36.563+0000,dreiss,David Reiss,0.0,0.0,1.0,,,
+13679794,300902,THRIFT-2014,2,"thanks Randy!
+
+committed
+;-r",2013-06-10T19:18:54.796+0000,2013-06-10T19:18:54.796+0000,roger,Roger Meier,1.0,0.6666667,0.0,,,
+13535250,301709,THRIFT-1796,2,Thanks Avi!,2012-12-18T20:03:50.504+0000,2012-12-18T20:03:50.504+0000,roger,Roger Meier,1.0,0.33333334,0.0,,,
+13178072,302984,THRIFT-1478,2,"Excellent, thanks a lot!",2011-12-31T19:46:12.888+0000,2011-12-31T19:46:12.888+0000,gfodor,Greg Fodor,1.0,0.6666667,0.0,,,
+13100966,303720,THRIFT-1333,2,"Committed, thanks Dave",2011-09-09T04:33:14.862+0000,2011-09-09T04:33:14.862+0000,jfarrell,Jake Farrell,1.0,0.0,0.0,,,
+13760999,304537,THRIFT-1125,2,"Hi [~wikimore], [~michaelstockton], or any other Ruby user: I'd really like to commit that, but I need someone of you to review and confirm before. So if you want this being part of the next release .... thank you!
+
+",2013-09-07T11:26:36.630+0000,2013-09-07T11:26:36.630+0000,jensg,Jens Geyer,1.0,0.33333334,0.0,,,
+12987290,305110,THRIFT-1021,2,"I just committed this patch. Thanks, Richard!",2011-01-26T23:31:57.297+0000,2011-01-26T23:31:57.297+0000,bryanduxbury,Bryan Duxbury,1.0,0.33333334,0.0,,,

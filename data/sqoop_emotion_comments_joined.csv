@@ -1,0 +1,10 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13633677,346187,SQOOP-989,2,"Thanks, Jarcec!",2013-04-17T02:07:30.320+0000,2013-04-17T02:07:30.320+0000,mgrover,Mark Grover,1.0,0.33333334,0.0,,,
+13631113,346690,SQOOP-876,2,"The patch is in: https://git-wip-us.apache.org/repos/asf?p=sqoop.git;a=commit;h=3865f7deec722948a60cc1746e2330bd1c5cb9e4
+
+Thank you Vasanth!
+
+Jarcec",2013-04-13T18:18:56.592+0000,2013-04-13T18:18:56.592+0000,jarcec,Jarek Jarcec Cecho,1.0,0.33333334,0.0,,,
+13567064,346850,SQOOP-842,2,Committed to sqoop2. Thanks Jarcec!,2013-01-30T23:25:06.518+0000,2013-01-30T23:25:06.518+0000,cheolsoo,Cheolsoo Park,1.0,0.33333334,0.0,,,
+13558279,346932,SQOOP-824,2,Thanks Jarcec - that clarifies.,2013-01-20T15:25:15.723+0000,2013-01-20T15:25:15.723+0000,abhijeet_gaikwad,Abhijeet Gaikwad,1.0,0.0,0.0,,,
+13507092,347366,SQOOP-721,2,Committed to trunk. Thanks Jarcec!,2012-11-30T04:43:22.562+0000,2012-11-30T04:43:22.562+0000,cheolsoo,Cheolsoo Park,1.0,0.33333334,0.0,,,

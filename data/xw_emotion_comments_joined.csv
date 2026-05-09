@@ -1,0 +1,2 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13394714,176941,XW-475,2,"Thanks for the patch, applied for 2.0.1/2.1",2007-02-16T03:40:52.613+0000,2007-02-16T03:40:52.613+0000,rainerh,Rainer Hermanns,1.0,0.0,0.0,,,

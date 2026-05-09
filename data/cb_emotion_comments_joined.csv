@@ -1,0 +1,4 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13543276,1524970,CB-2102,2,Sorry I missed this since it wasn't tagged iOS. Looking at it now.,2013-01-03T20:59:42.506+0000,2013-01-03T20:59:42.506+0000,shazron,Shazron Abdullah,0.0,0.0,1.0,,,
+13636725,1522457,CB-3188,2,Sorry I forgot to mention: This is for the future branch!,2013-04-19T18:51:49.031+0000,2013-04-19T18:51:49.031+0000,mmocny,Michal Mocny,0.0,0.0,1.0,,,
+13606836,1523476,CB-2680,2,Looks good!,2013-03-19T21:20:52.212+0000,2013-03-19T21:20:52.212+0000,max.woghiren,Max Woghiren,0.33333334,1.0,0.0,,,

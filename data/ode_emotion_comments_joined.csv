@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12832941,540003,ODE-743,2,Applied. Thanks!,2010-02-12T10:56:58.829+0000,2010-02-12T10:56:58.829+0000,rrusin,Rafal Rusin,1.0,0.33333334,0.0,,,
+12646030,541327,ODE-298,2,"Sorry for the late reply. Your corrections look good, I've just applied them. Thanks!",2008-11-08T21:13:10.660+0000,2008-11-08T21:13:10.660+0000,mriou,Matthieu Riou,0.33333334,0.33333334,1.0,,,

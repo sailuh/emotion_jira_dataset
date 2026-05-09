@@ -1,0 +1,33 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13420958,663127,LUCENE-4249,2,Thanks Scott. git formatted patches are fine in my opinion: lets get this fixed,2012-07-23T20:59:05.249+0000,2012-07-23T20:59:05.249+0000,rcmuir,Robert Muir,1.0,0.0,0.0,,,
+13270188,665610,LUCENE-3948,2,Committed.  Thanks Chris!,2012-05-08T04:34:38.379+0000,2012-05-08T04:34:38.379+0000,sarowe,Steven Rowe,1.0,0.33333334,0.0,,,
+12786016,684142,LUCENE-2108,2,"bq. If you back-port this to 2.9, you can't use any of the java.util.concurrent.*
+Very good point! - didn't thought about back porting at all.
+
+
+bq. I'm not sure you need a separate SearcherHolder class - can't you re-use IndexReader's decRef/incRef?
+I guess I did not see the simplicity the reader offers - blind due to  java.util.concurrent.* :)
+
+bq. I think there are some thread safety issues.. 
+this is weird - on my dev machine and in the patch it is not synchronized.. on the machine I run the tests it is. Anyway you are right.
+
+
+I changed the code to be compatible with 2.9 using indexReaders.dec/incRef.. will attache in a minute
+
+
+",2009-12-04T17:33:24.455+0000,2009-12-04T17:33:24.455+0000,simonw,Simon Willnauer,0.6666667,1.0,0.0,,,
+12751991,687004,LUCENE-1873,2,Thanks Steve!,2009-09-07T01:06:47.488+0000,2009-09-07T01:06:47.488+0000,markrmiller@gmail.com,Mark Miller,1.0,0.33333334,0.0,,,
+13604550,657879,LUCENE-4838,2,Committed to trunk and 4x. Thanks Simon!,2013-03-17T09:07:54.897+0000,2013-03-17T09:07:54.897+0000,shaie,Shai Erera,1.0,0.33333334,0.0,,,
+13218680,667099,LUCENE-3820,2,Thanks Dawid!,2012-02-28T23:13:57.454+0000,2012-02-28T23:13:57.454+0000,mikemccand,Michael McCandless,1.0,0.33333334,0.0,,,
+13156940,669039,LUCENE-3593,2,"bq. Opened LUCENE-3595.
+
+thanks! I committed this to trunk and backported to 3.x 
+
+nice iterations.. ;) heavy committing ",2011-11-24T23:45:42.259+0000,2011-11-24T23:45:42.259+0000,simonw,Simon Willnauer,0.6666667,1.0,0.0,,,
+13124947,691923,LUCENE-1536,2,"Strange things going on. With Google Chrome, uploading patch files corrupts the file. With MSIE it worked. Sorry for the noise. Yesterday it worked normally...",2011-10-11T11:45:43.148+0000,2011-10-11T11:45:43.148+0000,uschindler,Uwe Schindler,0.0,0.0,1.0,,,
+12977519,676725,LUCENE-2766,2,"bq. I'm gonna hold off on LUCENE-2771 until we figure this one out... because it would make your getSequentialSubReaders in the synced=true case quite heavy (without modifications).
+
+Sorry, I was wrong on this... I totally forgot the norms cache is lazy-loaded always in that patch. I'll commit LUCENE-2771 it shouldnt affect this!",2011-01-04T22:58:54.766+0000,2011-01-04T22:58:54.766+0000,rcmuir,Robert Muir,0.0,0.0,1.0,,,
+12850989,681206,LUCENE-2329,2,"Good catch!
+
+Thanks for the thorough explanation and suggestions.  I think it all makes sense.  Will work on a patch.",2010-03-29T16:34:03.193+0000,2010-03-29T16:34:03.193+0000,michaelbusch,Michael Busch,1.0,1.0,0.0,,,

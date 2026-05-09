@@ -1,0 +1,2 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12614151,652698,LUCENENET-118,2,"I rather we don't work on older versions.  If this is still an issue in 2.3.1, please submit a new patch for 2.3.1.  Thanks.",2008-07-16T23:24:46.158+0000,2008-07-16T23:24:46.158+0000,georgearoush,George Aroush,1.0,0.0,0.0,,,

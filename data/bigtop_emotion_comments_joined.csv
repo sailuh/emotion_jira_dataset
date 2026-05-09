@@ -1,0 +1,5 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13617167,1614815,BIGTOP-848,2,"Thanks!
+I have not tried it yet, but it looks good to me.
+
+",2013-03-29T07:45:05.408+0000,2013-03-29T07:45:05.408+0000,bmahe,Bruno Mahé,0.33333334,1.0,0.0,,,

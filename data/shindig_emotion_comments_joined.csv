@@ -1,0 +1,8 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12638222,417283,SHINDIG-542,2,"Bruno, you mentioned in a gtalk conversation that you had a patch for this, but I can't find it here in JIRA.. could you attach it please? thanks!",2008-10-09T07:41:23.974+0000,2008-10-09T07:41:23.974+0000,chabotc,Chris Chabot,1.0,0.33333334,0.0,,,
+12722559,415813,SHINDIG-1087,2,"Code looks good to me, patch's been committed, thanks!
+
+Awesome to now be able both the 0.8 and 0.9 messaging API through the same interface, this is going to save us a lot of headaches :)",2009-06-22T10:59:11.390+0000,2009-06-22T10:59:11.390+0000,chabotc,Chris Chabot,0.6666667,1.0,0.0,,,
+12567210,418820,SHINDIG-46,2,"I had no idea about fetching binary data, sorry. Is it flash? 
+
+Looks like my patch addressed all three points, failing only for handling raw bytes.",2008-02-08T21:28:43.188+0000,2008-02-08T21:28:43.188+0000,arty.name,Tom Adler,0.0,0.0,1.0,,,

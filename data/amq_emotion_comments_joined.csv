@@ -1,0 +1,4 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12938646,1711598,AMQ-908,2,"Thanks Ken! 
+patch applied to trunk:  r480575",2006-11-29T14:10:00.000+0000,2006-11-29T14:10:00.000+0000,jlim,Jonas B. Lim,1.0,0.33333334,0.0,,,
+12937839,1712155,AMQ-708,2,Patch applied!  Thanks.,2006-05-12T07:21:18.000+0000,2006-05-12T07:21:18.000+0000,chirino,Hiram R. Chirino,1.0,0.33333334,0.0,,,

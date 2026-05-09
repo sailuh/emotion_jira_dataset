@@ -1,0 +1,30 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13011559,411957,SHIRO-274,2,"Sorry for my delay. I would have answered early but I completely missed the notification mail about Christiano's comment :(
+
+@Christiano: I've just tested it again and it seams to work for me:
+
+{code}
+karaf@root> list
+START LEVEL 100 , List Threshold: 50
+   ID   State         Blueprint      Level  Name
+[  42] [Active     ] [            ] [   60] Apache Shiro :: Core (1.2.0.SNAPSHOT)
+[  43] [Active     ] [            ] [   60] Apache ServiceMix :: Bundles :: ehcache (2.3.0.1)
+[  44] [Active     ] [            ] [   60] Apache Shiro :: Support :: EHCache (1.2.0.SNAPSHOT)
+{code}
+
+Looking into the shiro ehcache pom i found the following:
+
+{code}
+<Import-Package>
+  org.apache.shiro*;version=""${shiro.osgi.importRange}"",
+  net.sf.ehcache*;version=""[2.3, 3)"",
+  *
+</Import-Package>
+{code}
+
+--> org.apache.shiro.ehcache [70]: Unable to resolve 70.0: missing requirement [70.0] package; (&(package=net.sf.ehcache)(version>=1.4.0)(!(version>=2.0.0))) 
+
+says that you're using an old snapshot-version of shiro ehcache. This could happen with the snapshots since karaf simply takes what it could find in your local mvn repo. Either simply remove your local .m2/repository/org/apache/shiro folder and let maven grep the latest version or build shiro yourself locally should fix the problem.
+
+Sorry again for the delay and kind regards,
+Andreas",2011-03-26T04:47:35.238+0000,2011-03-26T04:47:35.238+0000,pieber,Andreas Pieber,0.0,0.0,1.0,,,

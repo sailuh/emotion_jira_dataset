@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13646200,726059,KAFKA-889,2,"Thanks for the reviews, guys!",2013-05-01T00:20:20.621+0000,2013-05-01T00:20:20.621+0000,nehanarkhede,Neha Narkhede,1.0,0.33333334,0.0,,,
+13593128,726603,KAFKA-772,2,Thanks for the patch. Committed to 0.8.,2013-03-05T06:41:05.450+0000,2013-03-05T06:41:05.450+0000,junrao,Jun Rao,1.0,0.0,0.0,,,

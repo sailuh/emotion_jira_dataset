@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12436962,1683409,TUSCANY-744,2,Thanks Rick for applaying the patch.,2006-09-22T18:44:24.000+0000,2006-09-22T18:44:24.000+0000,lresende,Luciano Resende,1.0,0.0,0.0,,,
+12752125,259976,TUSCANY-3255,2,"Thanks for the patch, applied to 1.x and 1.5.1",2009-09-07T12:47:06.604+0000,2009-09-07T12:47:06.604+0000,aelder,ant elder,1.0,0.0,0.0,,,

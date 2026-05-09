@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12821511,213366,WW-1595,2,"Patch applied, thanks!",2007-01-04T22:44:13.702+0000,2007-01-04T22:44:13.702+0000,mrdon,Donald J. Brown,1.0,0.33333334,0.0,,,
+12976005,206221,WW-3538,2,John it would be great!,2010-12-30T10:15:43.778+0000,2010-12-30T10:15:43.778+0000,lukaszlenart,Lukasz Lenart,0.33333334,1.0,0.0,,,

@@ -1,0 +1,6 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12780022,1433941,DBCP-305,2,"Thanks for accepting this patch. I'm sorry I wasn't sensitive to the brace convention already in the file. I probably could have javadoc'd the inner class, too :)
+
+I didn't think about the lack of thread safety of the SimpleDateFormat class: good catch. So this counts as a bugfix by markt (format was being used in an unsynchronized way prior to this patch) as well as an enhancement by me :)
+
+If DBCP typically uses localized error messages, I'd be happy to provide another patch that localizes the exception's message.",2009-11-19T15:14:01.870+0000,2009-11-19T15:14:01.870+0000,chris@christopherschultz.net,Christopher Schultz,0.33333334,0.0,1.0,,,

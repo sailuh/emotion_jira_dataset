@@ -1,0 +1,6 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12893290,441029,QPID-2766,2,"Thanks for catching this, I have fixed it.",2010-07-28T18:22:59.711+0000,2010-07-28T18:22:59.711+0000,rajith,Rajith Muditha Attapattu,1.0,0.0,0.0,,,
+12733570,442921,QPID-1969,2,"Hi Aidan, can you review this change please, thanks.",2009-07-21T10:16:17.137+0000,2009-07-21T10:16:17.137+0000,robbie,Robbie Gemmell,1.0,0.0,0.0,,,
+12636587,444644,QPID-1269,2,"Hey Aidan, can you cast your eye over this again. Thanks.",2008-10-03T09:24:41.959+0000,2008-10-03T09:24:41.959+0000,ritchiem,Martin Ritchie,1.0,0.0,0.0,,,
+12497766,446268,QPID-496,2,"the code has been checked in.
+Thanks to Gordon for that. ",2007-05-22T09:02:31.834+0000,2007-05-22T09:02:31.834+0000,arnaudsimon,Arnaud Simon,1.0,0.0,0.0,,,

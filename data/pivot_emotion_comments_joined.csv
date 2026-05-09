@@ -1,0 +1,2 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12857795,453939,PIVOT-461,2,"Wow, fast. Thanks!",2010-04-16T12:32:26.842+0000,2010-04-16T12:32:26.842+0000,dmoebius,Dirk Moebius,0.33333334,1.0,0.0,,,

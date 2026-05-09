@@ -1,0 +1,6 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12697211,155850,ZOOKEEPER-370,2,"I just committed this. thanks flavio.
+
+",2009-04-08T21:10:22.063+0000,2009-04-08T21:10:22.063+0000,mahadev,Mahadev Konar,1.0,0.0,0.0,,,
+13072596,148474,ZOOKEEPER-1139,2,I just committed this. Thanks pat!,2011-07-28T23:23:57.629+0000,2011-07-28T23:23:57.629+0000,mahadev,Mahadev Konar,1.0,0.33333334,0.0,,,
+13012161,150015,ZOOKEEPER-975,2,Thanks for the clarification. I will reintroduce separate data structure for LEADING/FOLLOWING notifications. ,2011-03-28T18:03:44.120+0000,2011-03-28T18:03:44.120+0000,vishalmlst,Vishal Kher,1.0,0.0,0.0,,,

@@ -1,0 +1,5 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12791586,570828,MYFACES-2459,2,thanks to Jakob Korherr for this patch,2009-12-16T21:12:34.833+0000,2009-12-16T21:12:34.833+0000,lu4242,Leonardo Uribe,1.0,0.0,0.0,,,
+64368,575599,MYFACES-228,2,"Sorry, I use JDK 1.4.2_06 and not 1.4.1 :)",2005-05-04T02:39:39.000+0000,2005-05-04T02:39:39.000+0000,roku,Rolf Kulemann,0.33333334,0.0,1.0,,,
+13025672,568964,MYFACES-3101,2,Yes it can be resolved. Thank You!,2011-04-27T08:49:43.513+0000,2011-04-27T08:49:43.513+0000,mstockhammer,Martin Stockhammer,1.0,0.0,0.0,,,
+12330933,574433,MYFACES-652,2,"Sorry, I was not able to create one diff-file, so I added for every build.xml an own diff.",2005-09-30T19:31:03.000+0000,2005-09-30T19:31:03.000+0000,stritti,Stephan Strittmatter,0.0,0.0,1.0,,,

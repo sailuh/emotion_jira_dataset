@@ -1,0 +1,4 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+12466231,1622483,BEANUTILS-267,2,"Fixed, thanks for the suggestion:
+
+http://svn.apache.org/viewvc?view=rev&revision=498105",2007-01-20T11:52:40.388+0000,2007-01-20T11:52:40.388+0000,niallp,Niall Pemberton,1.0,0.0,0.0,,,

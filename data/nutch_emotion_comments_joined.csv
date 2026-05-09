@@ -1,0 +1,3 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13070453,558581,NUTCH-1065,2,+1 thanks,2011-07-25T12:11:29.663+0000,2011-07-25T12:11:29.663+0000,jnioche,Julien Nioche,1.0,0.0,0.0,,,
+12422202,563865,NUTCH-173,2,Patch applied to trunk/ . Thank you!,2006-07-19T17:34:00.000+0000,2006-07-19T17:34:00.000+0000,ab,Andrzej Bialecki,1.0,0.33333334,0.0,,,

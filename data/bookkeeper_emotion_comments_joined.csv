@@ -1,0 +1,26 @@
+comment_id,comment_id_db,issue_key,group_number,body,timestamp,updated_at,author_login,author_name,love,joy,sadness,anger,surprise,fear
+13718294,1606751,BOOKKEEPER-625,2,Committed revision 1506513. Thanks Vinay.,2013-07-24T12:16:30.856+0000,2013-07-24T12:16:30.856+0000,ikelly,Ivan Kelly,1.0,0.0,0.0,,,
+13492478,1608525,BOOKKEEPER-444,2,Committed as r1406707. Thanks for reviewing Sijie.,2012-11-07T16:28:10.256+0000,2012-11-07T16:28:10.256+0000,ikelly,Ivan Kelly,1.0,0.0,0.0,,,
+13504339,1608553,BOOKKEEPER-440,2,"Sorry Ivan, attach a new patch with --no-prefix.",2012-11-27T03:20:42.634+0000,2012-11-27T03:20:42.634+0000,lvfangmin,Fangmin Lv,0.0,0.0,1.0,,,
+13459054,1609721,BOOKKEEPER-315,2,"Hi Ivan,
+
+{quote}
++ long numberOfEntriesToReplicate = lastEntryId - firstEntryId; 
+should be (lastEntryId - firstEntryId) + 1
+{quote}
+You are right, both side entries has to be considered. Thank a lot for noticing it.
+
+{quote}
+In general, I think this splitting should be in LedgerFragmentReplicator, rather than BookKeeperAdmin. This way you could avoid the need to expose the update of ledger metadata. It will make control flow a little more complex as you'll have to initiate replication on the next subfragment from the callback of the current, but i think it would encapsulate things a bit better.
+{quote}
+Yes, in general, all the split logic should be in LFR. I might pushed that code to BKAdmin because, I don't want to disturb admin key flow much, which will go through LFR.
+Now anyway, I moved that logic, still not disturbing BKAdmin key flows in anyway.
+
+Attached a patch, which addresses the comments.
+
+Also to give more confidence on split fragment scenarios, I have added multiple boundary cases for FragmentSplit.
+
+Thanks a lot, Ivan for your nice reviews!
+
+",2012-09-19T20:25:42.511+0000,2012-09-19T20:25:42.511+0000,umamaheswararao,Uma Maheswara Rao G,1.0,0.33333334,0.0,,,
+13243065,1611174,BOOKKEEPER-193,2,"committed as 1307725. thanks for Ivan's improvement, thanks Flavio for reviewing.",2012-03-31T07:14:05.102+0000,2012-03-31T07:14:05.102+0000,hustlmsp,Sijie Guo,1.0,0.0,0.0,,,
